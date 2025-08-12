@@ -1,9 +1,4 @@
-
 <!-- Banner Image -->
-
-
-
-
 ![Banner](https://i.ibb.co.com/fVGHk0d6/1754651695936.jpg)
 
 # MD. Amir Hossain  
@@ -12,7 +7,7 @@
 ---
 
 ### 📍 Location
-Dhaka, Bangladesh
+Chittagong, Bangladesh
 
 ### About Me
 MERN Stack Developer focused on building fast, responsive, and user-friendly web applications. I enjoy turning ideas into production-ready products using React, Node, Express, and MongoDB. I write clean, maintainable code and love learning new tools and best practices.
