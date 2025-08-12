@@ -59,13 +59,9 @@ MERN Stack Developer focused on building fast, responsive, and user-friendly web
 ## Featured Projects
 (📌 Pin these in your GitHub profile: `hotel-hub`, `tourism-website`, `portfolio`)
 
-- **Hotel Hub** — Full-stack hotel booking app (React, Node, MongoDB). Live: `https://your-live-link.com`  
-- **Tourism Website** — Client-side tourism site showcasing destinations (React, Tailwind). Live: `https://your-live-link.com`  
+- **Hotel Hub** — Full-stack hotel booking app (React, Node, MongoDB). Live: `https://hotel-foods.web.app/`  
+- **product-recomandatione** — Client-side tourism site showcasing destinations (React, Tailwind). Live: `https://product-recomandation.web.app/`  
 - **Portfolio** — Personal portfolio and projects showcase (React + Vite). Live: `https://your-live-link.com`
 
----
-
-> ⚠️ **Note:** If the banner image link doesn’t render on GitHub, upload the image to your repo (e.g., `/assets/banner.jpg`) and change the top line to:
-> `![Banner](assets/banner.jpg)`
 
 
