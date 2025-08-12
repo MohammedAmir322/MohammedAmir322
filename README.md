@@ -1,3 +1,53 @@
+<!-- Banner Image -->
+![Banner](https://your-banner-image-url.com/banner.png)
+
+# John Doe  
+**Frontend Developer | Web Enthusiast**
+
+---
+
+### About Me  
+I’m a passionate frontend developer with a knack for creating smooth and engaging user experiences. Skilled in React, JavaScript, and CSS. Always eager to learn and take on new challenges.
+
+---
+
+### Current Activities  
+- Exploring Next.js  
+- Building a tourism website  
+- Learning advanced CSS animations
+
+---
+
+### Skills  
+
+#### Frontend  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+#### Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+
+#### Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### Contact Me  
+📫 Email: john.doe@example.com  
+📞 Phone: +123-456-7890  
+🔗 [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe)
+
+---
+
+### GitHub Stats  
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+
+
 <h1 align="center">Hi 👋, I'm MD.Amir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
