@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co.com/fVGHk0d6/1754651695936.jpg)
+![Banner](https://i.ibb.co.com/CpqcZThS/Brown-Geometric-Personal-Linked-In-Banner.png)
 
 # MD. Amir Hossain  
 **MERN Stack Developer**
